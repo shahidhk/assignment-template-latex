@@ -1,4 +1,4 @@
-Programming Assignment Submission Template
+# Programming Assignment Submission Template
 
 Steps:
 ------
